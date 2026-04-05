@@ -1,0 +1,2 @@
+- GitHub Repo Link: [https://github.com/23BCE1976/travel-planner](https://github.com/23BCE1976/travel-planner)
+- Demo Video Link: [https://drive.google.com/file/d/16ATeh_BQWQOU2Yhyoy0o1j3l7LwSqrAx/view?usp=drive_link](https://drive.google.com/file/d/16ATeh_BQWQOU2Yhyoy0o1j3l7LwSqrAx/view?usp=drive_link)
